@@ -1,0 +1,72 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html{
+    padding: 0px;
+    margin: 0px;
+}
+#contain{
+    background-color: rgb(68, 68, 68);
+    max-width: 800px;
+    height: 700px;
+    margin: auto;
+    position: relative;
+}
+.fe{
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 7px;
+}
+.top-bar{
+    background-color: rgb(6, 195, 224);
+    text-align: center;
+    padding: 9px;}
+.h001 { 
+    padding: 0px;
+    margin: 0px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.cx-ld{ 
+    background-color: rgba(235, 248, 244, 0.754);
+    max-width: 230px;
+    height: 310px;
+    position: relative;
+    float: right;
+    bottom: 370px;
+    padding: 10px;
+    margin: 16px;
+    font-size: 12px;
+}
+   
+
+input, select{
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    padding: 7px;
+    margin: 2px;
+}
+.mb{
+    margin-bottom: 100px;
+}
+input[type= submit]{
+    color: aliceblue;
+    background-color: rgb(6, 195, 224);
+    font-weight: bold;
+}
+.button-bar{
+    position: relative;
+    top: 30px;
+    left: 100px;
+    width: 170px;
+}
+.text-bt{
+    color: aliceblue;
+    position: relative;
+    left: 335px;
+    bottom: 200px;
+}
